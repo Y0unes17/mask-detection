@@ -3,7 +3,7 @@
 <strong >Detect faces and determine whether they are wearing mask.</strong ><br>
 <strong >Detect face masks in real-time video streams. </strong > <br>
 
-First of all, i hope the people in the world defeat COVID-2019 as soon as possible. Stay strong,   <br>
+First of all, i hope the people in the world defeat COVID-19 as soon as possible. Stay strong,   <br>
 all the countries in the world.  <br>
 I make face mask detection models with mainstream deep learning frameworks   <br>
 (TensorFlow、Keras、）with<strong > 99% accuracy</strong > on our test set. <br>
